@@ -11,7 +11,7 @@ ul {
     background: cornflowerblue;
 }
 
-ul li {
+nav ul {
     display: inline-block;
     position: relative;
 }

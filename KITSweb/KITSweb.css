@@ -44,3 +44,7 @@ ul li a:hover {
 ul li:hover ul.drop {
     display: block;
 }
+
+nav {
+    background: cornflowerblue;
+}

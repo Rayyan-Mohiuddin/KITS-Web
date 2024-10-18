@@ -217,3 +217,36 @@ nav {
     right: -975px;
     top: -180px;
 }
+
+.footer{
+    background-color: cornflowerblue;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    max-width: 1200px;
+    min-height: 50px;
+}
+.footer p{
+        margin: 10px 10px 10px 10px;
+}
+
+.footer ul{
+    list-style: none;
+}
+
+.footer ul li{
+    display: inline;
+    margin: 0 15px;
+}
+
+.contact-list{
+    list-style: none;
+    padding: 0;
+}
+.contact-list li {
+    display: inline;
+    margin: 0 15px;
+}
